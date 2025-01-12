@@ -1,3 +1,11 @@
 venv
 datasets
 model
+# Python
+*.pyc
+__pycache__/
+# Django
+*.sqlite3
+db.sqlite3
+media/
+staticfiles/
